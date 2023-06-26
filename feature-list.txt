@@ -1,0 +1,32 @@
+Order
+Contract adjustment
+MNP
+SIM-Swap
+Remove of process derivation
+Subscriber Management
+SIM card
+OTA
+Customer Billing (& Rating)
+Prepaid (DRI)
+Data 
+Voice
+SMS
+MMS
+Supplementary Services
+Mailbox
+Value-added Services / Premium numbers
+Support IVR
+National Roaming (nationwide)
+Internat. telephony / SMS / MMS
+International Roaming FRA
+International (Sponsored) Roaming 
+Interconnection
+provisioned Regulatory Requirements
+Device management / Network device compatibility
+Multi Device Solution
+One Number extended
+RCS
+Migration
+Zero Rating
+Campaign
+Other Topics

@@ -1,0 +1,12 @@
+{
+  "base_url": "https://<YOUR_JIRA_URL>//rest/api/2",
+  "username": "<YOUR_USERNAME>",
+  "project_key": "<YOUR_JIRA_PROJECT_KEY>",
+  "feature_field_id": "<YOUR_FEATURE_CUSTOM_FIELD_ID",
+  "severity_field_id": "<YOUR_SEVERITY_CUSTOM_FIELD_ID",
+  "max_results": "20",
+  "output_file": "data-file.txt",
+  "pivot_file": "pivot-file.txt",
+  "feature_file": "feature-list.txt",
+  "api_token": "<YOUR_JIRA_API_TOKEN>"
+}
